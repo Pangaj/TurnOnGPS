@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "111918639561",
+    "project_id": "turnongps-1491454267339"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111918639561:android:01aa43537eb0cee8",
+        "android_client_info": {
+          "package_name": "shruthi.pangaj.turnongps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111918639561-ugh27mc3695sghangsu2bscblr28rd11.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "111918639561-gpors8okq26q8qhp8va3c85m3r4t8grs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shruthi.pangaj.turnongps",
+            "certificate_hash": "7b48a8dc1da17663cb0e44e840143ae9b4e500f4"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjGqsEg0MiXnAKv-01l80MSij0gUqnBqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
