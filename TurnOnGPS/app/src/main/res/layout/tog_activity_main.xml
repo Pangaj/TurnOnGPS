@@ -22,7 +22,7 @@
             android:id="@+id/tv_gps_on_off"
             android:layout_toEndOf="@+id/iv_gps_on_off"
             android:layout_width="wrap_content"
-            android:textSize="@dimen/font_20"
+            android:textSize="20sp"
             android:layout_marginStart="@dimen/spacing_10"
             android:layout_centerVertical="true"
             android:layout_height="wrap_content"/>
