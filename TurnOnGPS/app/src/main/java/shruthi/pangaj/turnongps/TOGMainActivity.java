@@ -55,6 +55,7 @@ public class TOGMainActivity extends AppCompatActivity implements OnMapReadyCall
     private GoogleApiClient mGoogleApiClient;
     public static final int MY_PERMISSIONS_REQUEST_LOCATION = 99;
 
+                
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
